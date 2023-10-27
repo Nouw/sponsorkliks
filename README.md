@@ -26,7 +26,8 @@ Welcome to the Sponsorkliks extension for Chromium-based browsers! With this ext
 1. Click on the Sponsorkliks icon in your browser's toolbar.
 2. Enable the "Auto-forwarding" option.
 - Now, whenever you visit a partnered site, you'll be automatically redirected via the Sponsorkliks URL.
-Supported Websites
+
+## Supported Websites
 
 A comprehensive list of all partnered websites can be found on the Sponsorkliks website.
 
@@ -34,10 +35,10 @@ Support
 
 For any issues or feedback, please contact our support team.
 
-Contribute
+## Contribute
 
 If you're a developer and wish to contribute to the project, please check out our GitHub repository.
 
-License
+## License
 
 This extension is licensed under the MIT License.
